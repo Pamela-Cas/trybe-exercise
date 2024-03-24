@@ -1,2 +1,2 @@
-# Repositório Exercícios Trybe
+# Meu Portifólio de Exercícios
 Exercícios Curso Desenvolvimento Web
